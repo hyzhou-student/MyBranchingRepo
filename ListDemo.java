@@ -22,11 +22,11 @@ public class ListDemo
 
       // Remove last traversed element
 
-
+	  System.out.println(list.contains("blah"));
 
       // Print all elements
       staff.reverse();
-      
+
       itr = staff.listIterator();
       while (itr.hasNext())
       {
