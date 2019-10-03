@@ -9,6 +9,7 @@ Green
 Yellow
 Red
 gay
+gay 2
 Unicorn and a half
 These are the colors of the rainbow.
 And 1.5 unicorns
