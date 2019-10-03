@@ -72,12 +72,12 @@ public class LinkedList<T>
     }
     
     public boolean contains(T o) {
-        Node n = first;
-        while (n != null) {
-            if (n.data.equals(o)) {
+        Node node = first;
+        while (node != null) {
+            if (node.data.equals(o)) {
                 return true;
             }
-            n = n.next;
+            node = node.next;
         }
         return false;
     }
